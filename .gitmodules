@@ -1,0 +1,3 @@
+[submodule "client/static"]
+	path = client/static
+	url = git@github.com:realRea/front_end_xebia
